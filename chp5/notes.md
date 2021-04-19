@@ -1,0 +1,13 @@
+Source of errors:
+- Poor specification
+  - Not specific about what a program should do
+- Incomplete programs
+  - Know when all test cases are handled
+- Unexpected arguments
+  - A argunnment given to a function we don't handle, leads to an error
+- Unexpected input
+  - User enters unexpected input
+- Unexpected state
+  - Wrong/incomplete state of data
+- Logical errors
+  - Code that doesn't do what it was supposed to do
